@@ -2,9 +2,25 @@
 :root {
     --primary: #FF6F0F;
     --secondary: #FFF0E6;
-    --light: #F8F8F9;
+    --light: #1C5771;
     --dark: #001D23;
 }
+
+.icon {
+  position: relative; left: 1200px;
+}
+#Buscador {
+  position: relative; left: 1200px;
+  background: no-repeat 0px 5px;
+  background-size: 24px;
+  width: 300px;
+  border: transparent;
+  border-bottom: solid 1px #ccc;
+  padding: 10px 10px 10px 30px;
+  outline: none;
+}
+
+
 
 .back-to-top {
     position: fixed;
