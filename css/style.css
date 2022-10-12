@@ -2,7 +2,7 @@
 :root {
     --primary: #FF6F0F;
     --secondary: #FFF0E6;
-    --light: #1C5771;
+    --light: #F8F8F9;
     --dark: #001D23;
 }
 
@@ -206,7 +206,7 @@
 }
 
 
-/*** Causes ***/
+/*** Categorias ***/
 .causes-item .progress {
     height: 5px;
     border-radius: 0;
@@ -256,13 +256,13 @@
 }
 
 
-/*** Service ***/
+/*** Caracteristicas ***/
 .service-item {
     box-shadow: 0 0 45px rgba(0, 0, 0, .06);
 }
 
 
-/*** Donate ***/
+/*** Cotizar ***/
 .donate {
     background: rgba(0, 29, 35, .8);
 }
@@ -274,7 +274,7 @@
 }
 
 
-/*** Team ***/
+/*** Ofertas ***/
 .team-item img {
     position: relative;
     top: 0;
@@ -318,7 +318,7 @@
 }
 
 
-/*** Testimonial ***/
+/*** Equipo ***/
 .testimonial-carousel::before {
     position: absolute;
     content: "";
